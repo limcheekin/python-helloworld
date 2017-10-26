@@ -1,0 +1,1 @@
+nuitka --standalone --recurse-all helloworld.py

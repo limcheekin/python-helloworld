@@ -102,3 +102,7 @@ ENV/
 
 # test
 _trial_temp
+
+# nuitka
+helloworld.build
+helloworld.dist
